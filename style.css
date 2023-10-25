@@ -3,6 +3,12 @@
 *::after {
   box-sizing: border-box;
 }
+@font-face {
+    font-family: 'BOOWIE Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BOOWIE Regular'), url('BOOWIE.woff') format('woff');
+    }
 html{
     height: 100%;
     margin: 0;
